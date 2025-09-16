@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Hi! I am Accounts Service In Production with auto refresh"
+  message: "Hi! I am Accounts Service In Production with auto refresh by actuator"
   contactDetails:
     name: "Bibek"
     email: "{cipher}baec84b0fb530bfe9a30fdfac0527f06af00880529f1783aa8f9e25e2e503a34aaefd63a8eec2d8260dd1164f920ebc6"
