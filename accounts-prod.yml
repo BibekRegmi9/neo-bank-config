@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Hi! I am Accounts Service In Prod"
+  message: "Hi! I am Accounts Service In Production"
   contactDetails:
     name: "Bibek"
     email: "livebibek@gmail.com"
